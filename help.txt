@@ -1,0 +1,27 @@
+How to play:
+
+In the game there are 2 players.
+There are 30 cards in a deck.
+Each card is unique and there are three suits that they could be in.
+The suits are: red, black and yellow.
+In each suit there are cards ranging from 1 to 10 in value.
+
+Each time a player takes a card from the top of the deck, 
+it is chosen at random from the shuffled deck of cards.
+Player 1 picks first with Player 2 afterwards.
+
+If both players have a card of the same colour, the player with the highest number wins.
+If both players have different colours, the winning colour is as shown in the table below:
+
++--------+--------+--------+
+| Card 1 | Card 2 | Winner |
++--------+--------+--------+
+| Red    | Black  | Red    |
++--------+--------+--------+
+| Yellow | Red    | Yellow |
++--------+--------+--------+
+| Black  | Yellow | Black  |
++--------+--------+--------+
+
+The winner of each round keeps both cards.
+The game ends when there are no cards left in the deck.
